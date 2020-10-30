@@ -1,14 +1,3 @@
-
-/**********|**********|**********|
-Program: TT04_A2_NG_LING_HUI.cpp
-Course: TCP1101 Programming Fundamentals
-Year: 2017/18 Trimester 1
-Student Name: Ng Ling Hui
-Student ID: 1161100848
-Email: abouterimi@hotmail.com
-Phone: 017-6812560
-**********|**********|**********/
-
 #include <iostream>
 #include <string>
 #include <fstream>
